@@ -1,3 +1,5 @@
+# CHARADES: Computer-based Human Activity Recognition and Deep-learning Enabled Solutions
+
 Human activities occur everywhere, but can a machine learn to recognize them simply by watching video? 
 
 Our study investigates whether deep learning models can distinguish between actions such as diving, drumming, and pull-ups from short video clips.
